@@ -54,7 +54,7 @@ public class Menu_Data_Gudang extends javax.swing.JFrame {
 
         jPanel1.setBackground(new java.awt.Color(0, 102, 102));
 
-        jLabel1.setFont(new java.awt.Font("Segoe UI", 1, 36)); // NOI18N
+        jLabel1.setFont(new java.awt.Font("Yu Gothic UI", 1, 36)); // NOI18N
         jLabel1.setForeground(new java.awt.Color(255, 255, 255));
         jLabel1.setText("Menu Data Gudang");
 
@@ -76,12 +76,14 @@ public class Menu_Data_Gudang extends javax.swing.JFrame {
         );
 
         jButton1.setBackground(new java.awt.Color(0, 102, 102));
+        jButton1.setFont(new java.awt.Font("Yu Gothic UI", 1, 14)); // NOI18N
         jButton1.setText("Tabel Satuan Dasar");
         jButton1.setBorder(new javax.swing.border.SoftBevelBorder(javax.swing.border.BevelBorder.RAISED));
         jButton1.setBorderPainted(false);
         jButton1.setPreferredSize(new java.awt.Dimension(30, 30));
 
         jButton2.setBackground(new java.awt.Color(0, 102, 102));
+        jButton2.setFont(new java.awt.Font("Yu Gothic UI", 1, 14)); // NOI18N
         jButton2.setText("Tabel Gudang");
         jButton2.setBorder(new javax.swing.border.SoftBevelBorder(javax.swing.border.BevelBorder.RAISED));
         jButton2.setBorderPainted(false);
@@ -94,12 +96,14 @@ public class Menu_Data_Gudang extends javax.swing.JFrame {
         });
 
         jButton3.setBackground(new java.awt.Color(0, 102, 102));
+        jButton3.setFont(new java.awt.Font("Yu Gothic UI", 1, 14)); // NOI18N
         jButton3.setText("Tabel Jenis Produk");
         jButton3.setBorder(new javax.swing.border.SoftBevelBorder(javax.swing.border.BevelBorder.RAISED));
         jButton3.setBorderPainted(false);
         jButton3.setPreferredSize(new java.awt.Dimension(30, 30));
 
         jButton4.setBackground(new java.awt.Color(0, 102, 102));
+        jButton4.setFont(new java.awt.Font("Yu Gothic UI", 1, 14)); // NOI18N
         jButton4.setText("Home");
 
         javax.swing.GroupLayout jPanel2Layout = new javax.swing.GroupLayout(jPanel2);
